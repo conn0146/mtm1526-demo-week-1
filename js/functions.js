@@ -2,3 +2,4 @@
 /*
 Javascript multi-line comment
 */
+alert('Warning! You are a douchebag');
